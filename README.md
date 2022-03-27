@@ -1,5 +1,5 @@
-# Custom Lattice Boltzmann Method to simulate Toner-Tu equations
-Simulating Toner-Tu equations with Lattice Boltzmann
+# A Python Lattice Boltzmann Method implementation to simulate Toner-Tu equations
+Simulating Toner-Tu equations with Lattice Boltzmann.
 
 
 ## Referenes
