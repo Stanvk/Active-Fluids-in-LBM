@@ -3,4 +3,4 @@ Simulating Toner-Tu equations with Lattice Boltzmann
 
 
 ## Referenes
-[1] David Nesbitt et al. 2021, "Unconvering novel phase transitions in dense dry polar fluids using a lattice Boltzmann method"
+[1] David Nesbitt et al. 2021, _Unconvering novel phase transitions in dense dry polar fluids using a lattice Boltzmann method_
