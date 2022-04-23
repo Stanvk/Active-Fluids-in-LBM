@@ -1,4 +1,4 @@
-# A Python Lattice Boltzmann Method implementation to simulate Toner-Tu equations
+# A LBM implementation to simulate Toner-Tu equations
 To recover the behavior of active particles as demonstrated by [1] in the hydrodynamic limit one might implement the so-called Toner-Tu equations
 in a Lattice Boltzmann Method [2]. This repository contains a D2Q9 Python implementation of the modified LBM which embeds the Contact Inhibition of Locomotion (CIL) model as proposed by [2].
 
